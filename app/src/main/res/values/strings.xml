@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Faizan</string>
+    <string name="stage">Stage 1</string>
+    <string name="eatenApple">Total apples eaten:</string>
+    <string name="meetDino">Meet Dyno, your new pet!</string>
+    <string name="FeedDino">You need to feed him 5 apples to help him get to the next stage.</string>
+    <string name="Congrats">Congratulations! Dyno has grown big and strong with your help.</string>
+</resources>
