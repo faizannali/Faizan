@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash">40sp</dimen>
+    <dimen name="stageMarginTop">52dp</dimen>
+    <dimen name="stageTextSize">16sp</dimen>
+    <dimen name="eatenTextsize">13sp</dimen>
+    <dimen name="eatanValueStart">3dp</dimen>
+    <dimen name="imageMarginTop">10dp</dimen>
+    <dimen name="meetDinoStart">60dp</dimen>
+    <dimen name="meetDinoEnd">60dp</dimen>
+    <dimen name="meetDinoTop">32dp</dimen>
+    <dimen name="meetDinoSize">16sp</dimen>
+    <dimen name="feedDinoStart">60dp</dimen>
+    <dimen name="feedDinoEnd">60dp</dimen>
+    <dimen name="feedDinoTop">6dp</dimen>
+    <dimen name="feedDinoSize">13sp</dimen>
+    <dimen name="btnHeight">39dp</dimen>
+    <dimen name="btnTop">25dp</dimen>
+    <dimen name="btnTextSize">13sp</dimen>
+    <dimen name="drawblePad">6dp</dimen>
+    <dimen name="btnStart">30dp</dimen>
+    <dimen name="btnEnd">30dp</dimen>
+    <dimen name="marginBottom">10dp</dimen>
+    <dimen name="btnElevation">10dp</dimen>
+
+</resources>

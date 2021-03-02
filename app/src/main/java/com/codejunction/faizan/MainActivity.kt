@@ -93,6 +93,6 @@ class MainActivity : AppCompatActivity() {
             override fun run() {
                 runOnUiThread { feedMeBtn.isEnabled=true }
             }
-        }, 1500)
+        }, 1600)
     }
 }

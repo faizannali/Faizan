@@ -15,8 +15,7 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/ic_dino5"
         android:layout_centerInParent="true"
-        android:transitionName="fade"
-        android:layout_marginTop="50dp"/>
+        android:transitionName="fade" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -24,7 +23,7 @@
         android:text="Feed Dino"
         android:layout_below="@id/image"
         android:layout_centerHorizontal="true"
-        android:textSize="40sp"
+        android:textSize="@dimen/splash"
         android:textStyle="bold"
         android:textColor="@color/darkGrey"/>
 
